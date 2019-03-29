@@ -17,4 +17,4 @@ to a place corresponds to the moz_places table. By going through historyvists an
 URL and getting simply the hostname, it is possible to identify which sites have been visited
 the most and the distribution.
 
-![hostnameVisitsDist](./images/hostnameVisitsDist.jpg)
+![hostnameVisitsDist](./images/hostnameVisitsDist.png)
