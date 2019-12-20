@@ -3,7 +3,7 @@ from urllib.parse import urlparse
 import numpy as np
 import matplotlib.pyplot as plt
 
-databaseFilename = 'places.sqlite'
+databaseFilename = 'places2.sqlite'
 conn = sqlite3.connect(databaseFilename)
 c = conn.cursor()
 
